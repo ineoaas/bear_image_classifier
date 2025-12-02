@@ -21,7 +21,6 @@ bear-classifier-ai/
 ├── BearClassifier.ipynb       # Main training notebook
 ├── bear_classifier.h5         # Saved trained model
 ├── README.md                  # Project documentation
-└── samples/                   # (Optional) Example images
 ```
 
 ---
